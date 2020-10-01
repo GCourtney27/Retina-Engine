@@ -19,6 +19,9 @@ A demo highlighting all features done during the 10-week period can be found her
 **JSON File IO**
 * Save and load your scenes. In the background, JSON is being used to store all Game Objects and their corresponding components
 
+### Physically Based Rendering
+<img src="Images/Lofoten.png" witdth="550" height="350" alt="Editor"/>
+
 **Platforms**
 Windows PC (x86_64)
 Visual Studio 2019/2017
